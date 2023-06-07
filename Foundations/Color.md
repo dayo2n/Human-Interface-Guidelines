@@ -201,3 +201,6 @@ focus을 나타내기 위해 색상만 사용하는 것은 피해라.**
 사람들이 풀컬러 대신 tinted mode를 사용하기 위해 그래픽의 복합성을 선호할 수 있음을 인지해라.**
 이 시스템은 그래픽 복합성의 이미지, 게이지 및 텍스트에서 워치 착용자가 색상을 기반으로 한 단일 컬러를 사용할 수 있다. 자세한 내용은 [Complications](https://developer.apple.com/design/human-interface-guidelines/complications)를 참조하세요.
 
+
+</br></br>
+##### [Color | Apple Developer Documentation](https://developer.apple.com/design/human-interface-guidelines/color)

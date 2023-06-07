@@ -122,3 +122,7 @@ SF symbols는 앱의 항목을 표시하는 데 사용할 수 있는 광범위�
 **In an editable sidebar, avoid placing edit buttons at the bottom edge of the view.   
 편집 가능한 사이드바에서 편집 버튼을 뷰의 맨 아래 가장자리에 배치하지 마라.**   
 항목에 대한 정보를 추가, 제거, 조작 또는 가져오는 버튼을 제공하는 것을 생각해보자. 뷰의 맨 아래 가장자리가 화면 밖에 있을 때 사이드바 맨 아래에 있는 버튼을 숨길 수 있다. 사용자가 새 사이드바 그룹을 추가할 수 있도록 하려면 그룹 레이블의 뒤에 있는 [disclosure triangle](https://developer.apple.com/design/human-interface-guidelines/disclosure-controls#Disclosure-triangles) 옆에 추가 (+) 버튼을 포함한다. 컨텍스트 메뉴 또는 메뉴 바 메뉴에서 제거 remove와 같은 다른 작업을 제공한다. 예를 들어 컨텍스트 메뉴에서 새 메일박스 명령을 제공하는 것 외에도 메일은 메일박스 메뉴에서 이 명령을 제공한다.   
+
+
+</br></br>
+##### [Sidebars | Apple Developer Documentation](https://developer.apple.com/design/human-interface-guidelines/sidebars)
