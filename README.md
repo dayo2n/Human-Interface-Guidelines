@@ -6,6 +6,7 @@ Apple의 HIG를 읽고 공부하며 정리하는 레포입니다 👀
 
 ## Foundations
 - [Color](https://github.com/dayo2n/Human-Interface-Guidelines/blob/main/Foundations/Color.md)
+- [App icons](https://github.com/dayo2n/Human-Interface-Guidelines/blob/main/Foundations/App%20icons.md)
 
 ## Patterns
 - [Managing accounts](https://github.com/dayo2n/Human-Interface-Guidelines/blob/main/Patterns/Managing%20accounts.md)
