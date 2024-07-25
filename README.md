@@ -16,3 +16,4 @@ Apple의 HIG를 읽고 공부하며 정리하는 레포입니다 👀
 ## Components
 ### Navigation and search
 - [Sidebar](https://github.com/dayo2n/Human-Interface-Guidelines/blob/main/Components/Navigation%20and%20search/Sidebars.md)
+- [Sidebar](https://github.com/dayo2n/Human-Interface-Guidelines/blob/main/Components/Layout%20and%organization/Collections.md)
